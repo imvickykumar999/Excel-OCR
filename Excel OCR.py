@@ -4,8 +4,6 @@ import xlwt, os
 print('\n..which camera wanna use ?\n')
 print('1). IP WebCam')
 print('2). Laptop')
-
-print('...any-thing else to EXIT.')
 camera = input('\nWhich Camera wanna use : ')
 
 if camera == '1':
