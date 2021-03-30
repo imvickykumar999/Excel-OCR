@@ -1,5 +1,7 @@
 # Excel-OCR
 
+## [Download and install tesseract folder](https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v4.1.0-bibtag19.exe)
+
 ![text to excel file](https://github.com/imvickykumar999/Excel-OCR/blob/master/ocr%20excel.jpeg)
 
 Idea from :
